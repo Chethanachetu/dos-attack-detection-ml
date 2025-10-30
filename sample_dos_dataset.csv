@@ -1,0 +1,7 @@
+duration,src_bytes,dst_bytes,count,attack_type
+0,100,200,2,normal
+5,5000,0,50,dos
+2,120,150,3,normal
+10,8000,0,80,dos
+1,90,300,1,normal
+8,9000,0,100,dos
